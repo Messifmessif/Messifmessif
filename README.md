@@ -16,7 +16,7 @@ techs and libraries
 ## degrees & qualifications :
 * 👨‍✈️  ICAO Commercial Pilot license 
 * 🧑‍ 🎓master degree in ANGLO-AMERIAN studies 
-* ✈️  ICAO english profeciency level 6 (highest )
+* ✈️  ICAO english proficiency level 6 (highest )
 * 👅  languages : ENGLISH / FRENCH /ARABIC
 
 ## check my github repos 📃📃📃 to view the code ..please feel free to add,modify, 
