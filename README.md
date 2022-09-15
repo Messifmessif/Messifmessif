@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Messifmessif/Messifmessif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Salah , im a self taught  front end developer ...
+i enjoy learning 📖 and developing🧑‍🏭 web-apps using some of the latest
+techs and libraries 
 
-Here are some ideas to get you started:
+... currently looking for a junior dev position 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack & skills : 
+* ⚛️ REACT /MATERIAL UI
+* 💻 HTML / css / javascript 
+* 🚇 APIs (CRUD)
+* 💫 BOOTSTRAP / SCSS 
+* 🪶GIT (VERSION CONTROL)
+
+
+## check my github repos 📃📃📃 to view the code ..please feel free to add,modify, 
+and clone a repo for further information on the code basis and techs applied  
+
+
