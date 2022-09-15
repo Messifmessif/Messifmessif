@@ -8,14 +8,14 @@ techs and libraries
 
 ## Tech stack & skills : 
 * ⚛️ REACT /MATERIAL UI
-* 💻 HTML / css / javascript 
+* 💻 HTML / CSS / JAVASCRIPT 
 * 🚇 APIs (CRUD)
 * 💫 BOOTSTRAP / SCSS 
 * 🪶 GIT (VERSION CONTROL)
 
 ## degrees & qualifications :
 * 👨‍✈️  ICAO Commercial Pilot license 
-* 🧑‍ 🎓master degree in ANGLO-AMERIAN studies 
+* 🧑‍ 🎓master degree in ANGLO-AMERICAN studies 
 * ✈️  ICAO english proficiency level 6 (highest )
 * 👅  languages : ENGLISH / FRENCH /ARABIC
 
